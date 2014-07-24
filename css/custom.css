@@ -1,0 +1,8 @@
+
+/* ------- Custom .css  ----------------*/
+.ui-widget-content a {
+	font-size: 13px !important;
+     color: #918E8E !important;
+    font-weight: bold !important;
+	vertical-align: bottom !important;
+}
